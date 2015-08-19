@@ -14,11 +14,11 @@ fi
 delay=60
 install=$1
 
-host=
-motd=
+host=https://raw.githubusercontent.com/Anime4000/HentaiRape/master/left4dead2/host.txt
+motd=https://raw.githubusercontent.com/Anime4000/HentaiRape/master/left4dead2/motd.txt
 
-banid=http://anime4000.github.io/HentaiRape/left4dead2/cfg/banned_user.cfg
-admin=http://anime4000.github.io/HentaiRape/left4dead2/addons/sourcemod/configs/admins.cfg
+banid=https://raw.githubusercontent.com/Anime4000/HentaiRape/master/left4dead2/cfg/banned_user.cfg
+admin=https://raw.githubusercontent.com/Anime4000/HentaiRape/master/left4dead2/addons/sourcemod/configs/admins.cfg
 
 # Run infinite update
 echo "Update every 1 minute"
